@@ -37,4 +37,19 @@ This project demonstrates how I monitor AWS resources using **Amazon CloudWatch*
 ## 🧠 What I Learned
 - How CloudWatch collects and displays metrics  
 - How to set meaningful thresholds for alarms  
-- How monitoring helps keep systems healthy  
+- How monitoring helps keep systems healthy
+
+---
+
+## 🛠 Skills Demonstrated
+- Amazon CloudWatch
+- Metric monitoring (CPU, network, status checks)
+- Alarm creation
+- Log inspection
+- Cloud performance analysis
+
+---
+
+**Status:** In Progress  
+**Expected Completion:** December 23, 2025
+
