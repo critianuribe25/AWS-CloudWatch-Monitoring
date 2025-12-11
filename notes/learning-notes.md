@@ -1,3 +1,0 @@
-- CloudWatch metrics update every few minutes.
-- Alarms help detect issues before users notice problems.
-- Monitoring is key for cloud support roles.
